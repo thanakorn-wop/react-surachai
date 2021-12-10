@@ -1,0 +1,13 @@
+.borrowitem {
+    color: red;
+}
+
+.returnitem {
+    color: green;
+}
+
+@media screen and (max-width: 768px) {
+    Table {
+        width: 10% !important;
+    }
+}
